@@ -1,8 +1,8 @@
 export default {
-  name: "argument",
+  name: "value",
   type: "object",
   fields: [
-    { name: "argument", type: "string" },
+    { name: "value", type: "string" },
     { name: "description", type: "string" },
   ],
 };

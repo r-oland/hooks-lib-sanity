@@ -16,8 +16,16 @@ export default {
       rows: 4,
     },
     {
+      name: "values",
+      type: "values",
+    },
+    {
       name: "arguments",
       type: "args",
+    },
+    {
+      name: "sandbox",
+      type: "string",
     },
   ],
 };

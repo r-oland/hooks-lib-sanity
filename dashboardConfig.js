@@ -14,10 +14,10 @@ export default {
         title: "Netlify",
         sites: [
           {
-            title: "componentsrb",
+            title: "hooks-lib",
             apiId: env.id,
             buildHookId: env.hook,
-            name: "componentsrb",
+            name: "hooks-lib",
           },
         ],
       },
